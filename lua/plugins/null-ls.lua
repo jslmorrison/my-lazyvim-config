@@ -9,6 +9,7 @@ return {
         null_ls.builtins.diagnostics.php,
         null_ls.builtins.diagnostics.phpcs,
         null_ls.builtins.diagnostics.phpstan,
+        null_ls.builtins.diagnostics.ansiblelint
       },
     })
   end,
